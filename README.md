@@ -1,0 +1,2 @@
+# hass
+Automatización del hogar
