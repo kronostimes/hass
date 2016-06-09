@@ -1,0 +1,210 @@
+
+b827eb36bb9d:
+  name: Raspberry
+  mac: B8:27:EB:36:BB:9D
+  picture: 
+  track: no
+  hide_if_away: no
+
+3c77e60ef5a2:
+  name: SonyBravia
+  mac: 3C:77:E6:0E:F5:A2
+  picture: 
+  track: no
+  hide_if_away: yes
+
+e8abfa6f24c2:
+  name: CamSalon
+  mac: E8:AB:FA:6F:24:C2
+  picture: 
+  track: no
+  hide_if_away: yes
+
+003104fadfff:
+  name: CamOficina
+  mac: 00:31:04:FA:DF:FF
+  picture: 
+  track: no
+  hide_if_away: yes
+
+b8098aa2c5a4:
+  name: Estela
+  mac: B8:09:8A:A2:C5:A4
+  picture: 
+  track: yes
+  hide_if_away: yes
+
+f099bf2fdf5f:
+  name: Juanlu
+  mac: F0:99:BF:2F:DF:5F
+  picture: 
+  track: yes
+  hide_if_away: yes
+
+001788256926:
+  name: HUE
+  mac: 00:17:88:25:69:26
+  picture: 
+  track: no
+  hide_if_away: no
+
+709e2967c982:
+  name: PS4
+  mac: 70:9E:29:67:C9:82
+  picture: 
+  track: no
+  hide_if_away: yes
+
+74d02b26c113:
+  name: KrnPC
+  mac: 74:D0:2B:26:C1:13
+  picture: 
+  track: no
+  hide_if_away: yes
+
+10e87855f4a5:
+  name: Niidea0
+  mac: 10:E8:78:55:F4:A5
+  picture: 
+  track: no
+  hide_if_away: no
+
+000c42dc5995:
+  name: EgoTec2G
+  mac: 00:0C:42:DC:59:95
+  picture: 
+  track: no
+  hide_if_away: yes
+
+c0bdd1fff32e:
+  name: SamsungS6
+  mac: C0:BD:D1:FF:F3:2E
+  picture: 
+  track: no
+  hide_if_away: no
+
+38c986bde187:
+  name: iWatch
+  mac: 38:C9:86:BD:E1:87
+  picture: 
+  track: no
+  hide_if_away: no
+
+083d886f09e1:
+  name: TabletStell
+  mac: 08:3D:88:6F:09:E1
+  picture: 
+  track: no
+  hide_if_away: yes
+
+244b03f51681:
+  name: niidea
+  mac: 24:4B:03:F5:16:81
+  picture: 
+  track: no
+  hide_if_away: no
+
+f48139a138c6:
+  name: niidea2
+  mac: F4:81:39:A1:38:C6
+  picture: 
+  track: no
+  hide_if_away: no
+
+68a86d42ce32:
+  name: MacBook
+  mac: 68:A8:6D:42:CE:32
+  picture: 
+  track: no
+  hide_if_away: no
+
+d8d43c569aee:
+  name: niidea4
+  mac: D8:D4:3C:56:9A:EE
+  picture: 
+  track: no
+  hide_if_away: no
+
+0003aafab8fd:
+  name: niidea5
+  mac: 00:03:AA:FA:B8:FD
+  picture: 
+  track: no
+  hide_if_away: no
+
+a8d3f752f86d:
+  name: niidea6
+  mac: A8:D3:F7:52:F8:6D
+  picture: 
+  track: no
+  hide_if_away: no
+
+148fc6398bc7:
+  name: niidea7
+  mac: 14:8F:C6:39:8B:C7
+  picture: 
+  track: no
+  hide_if_away: no
+
+fc8b971497af:
+  name: fc8b971497af
+  mac: FC:8B:97:14:97:AF
+  picture: 
+  track: no
+  hide_if_away: no
+
+iphone:
+  name: iphone
+  mac: 
+  picture: 
+  track: no
+  hide_if_away: no
+
+f49ff3495fa9:
+  name: f49ff3495fa9
+  mac: F4:9F:F3:49:5F:A9
+  picture: 
+  track: no
+  hide_if_away: no
+
+00bf28001401:
+  name: 00bf28001401
+  mac: 00:BF:28:00:14:01
+  picture: 
+  track: no
+  hide_if_away: no
+
+88329b581622:
+  name: 88329b581622
+  mac: 88:32:9B:58:16:22
+  picture: 
+  track: no
+  hide_if_away: no
+
+847a88699595:
+  name: 847a88699595
+  mac: 84:7A:88:69:95:95
+  picture: 
+  track: no
+  hide_if_away: no
+
+38019517e24c:
+  name: 38019517e24c
+  mac: 38:01:95:17:E2:4C
+  picture: 
+  track: no
+  hide_if_away: no
+
+28987b074b31:
+  name: s5830
+  mac: 28:98:7B:07:4B:31
+  picture: 
+  track: no
+  hide_if_away: no
+
+0c3021daeea7:
+  name: 0c3021daeea7
+  mac: 0C:30:21:DA:EE:A7
+  picture: 
+  track: yes
+  hide_if_away: no

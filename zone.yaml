@@ -1,0 +1,5 @@
+- name: Calzedonia
+  latitude: 36.622969
+  longitude: -4.498173
+  radius: 25
+  icon: mdi:worker

@@ -1,0 +1,27 @@
+- platform: forecast
+  api_key: 38b9xxxxxxxxxxxxxxxxxxxxxc46
+  monitored_conditions:
+    - temperature
+    - humidity
+
+#sensor 3
+- platform: speedtest
+  minute:
+    - 0
+    - 15
+  monitored_conditions:
+    - download
+
+#sensor 4
+#- platform: transmission
+#  host: xxxxxxxxx
+#  port: 9091
+#  name: uTorrent
+#  username: xxxx
+#  password: xxxx
+#  monitored_variables:
+#    - 'current_status'
+#    - 'download_speed'
+#    - 'upload_speed'
+
+- platform: yr

@@ -1,0 +1,23 @@
+#- platform: foscam
+#  ip: xxxxxxxxxxxxx
+#  name: xxxxxxxxxxx
+#  port: xx
+#  username: xxxxxxx
+#  password: xxxxxxx
+#
+#camera 2
+
+- platform: foscam
+  ip: xxxxxxxxxxx
+  name: Salon
+  port: xx
+  username: xxxxxxx
+  password: xxxxxxx
+
+#camera 3
+#
+#- platform: mjpeg
+#  mjpeg_url: xxxxxxxxxxxxxxxxxxxxxx
+#  name: Oficina
+#  username: xxxxx
+#  password: xxxxx

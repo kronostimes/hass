@@ -1,0 +1,7 @@
+alias: Enceder cuando se vaya el sol
+trigger:
+  platform: sun
+  event: sunset
+action:
+  service: light.turn_on
+  entity_id: group.salon

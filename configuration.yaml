@@ -1,0 +1,58 @@
+homeassistant:
+  name: Casa
+  latitude: 36.6265
+  longitude: -4.5023
+  temperature_unit: C
+  time_zone: Europe/Madrid
+
+discovery:
+logbook:
+conversation:
+history:
+updater:
+frontend:
+zone: !include zone.yaml
+camera: !include devices/cameras.yaml
+sensor: !include devices/sensors.yaml
+notify: !include notify.yaml
+group: !include group.yaml
+automation: !include automation.yaml
+light: !include light.yaml
+
+sun:
+  elevation: 57
+http:
+   api_password: XXXXXXXXXX
+weblink:
+   entities:
+     - name: Router
+       url: http://192.168.1.1
+       icon: mdi:router-wireless
+
+mqtt:
+  broker: 127.0.0.1
+  port: 1883
+  keepalive: 60
+  username: XXXX
+  password: XXXX
+
+device_tracker:
+  platform: snmp
+  host: 192.168.1.1
+  community: public
+  baseoid: 1.3.6.1.2.1.4.22.1.2
+  interval_seconds: 5
+  consider_home: 6
+
+ifttt:
+  key: baXXXXXXXXXXXXXXXXXNl
+
+recorder:
+  purge_days: 45
+
+device_sun_light_trigger :
+   light_group : group.luces
+   light_profile : relax
+   device_group : group.quien_hay_en_casa
+   disable_turn_off : 1
+

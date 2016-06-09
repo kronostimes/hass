@@ -1,0 +1,12 @@
+salon:
+   - light.oficina
+   - light.salon
+dormitorio:
+   - light.dormitorio
+quien_hay_en_casa:
+   - device_tracker.b8098aa2c5a4
+   - device_tracker.f099bf2fdf5f
+luces:
+   - light.oficina
+   - light.salon
+   - light.dormitorio

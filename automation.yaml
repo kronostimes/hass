@@ -1,0 +1,3 @@
+- !include automation/encender_no_sol.yaml
+- !include automation/aviso_encendido_salon.yaml
+- !include automation/aviso_apagado_salon.yaml

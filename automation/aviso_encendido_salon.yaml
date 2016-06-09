@@ -1,0 +1,11 @@
+alias: Aviso encendido salon
+trigger:
+  platform: state
+  entity_id: group.salon
+  from: 'off'
+  to: 'on'
+action:
+  service: notify.pushbullet
+  data:
+    message: "Se ha encendido la luz del salon"
+    title: "Encendido salon"

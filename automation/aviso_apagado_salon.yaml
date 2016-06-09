@@ -1,0 +1,12 @@
+alias: Aviso apagado salon
+trigger:
+  platform: state
+  entity_id: group.salon
+  from: 'on'
+  to: 'off'
+action:
+  service: notify.pushbullet
+  data:
+    message: "Se ha apagado la luz del salon"
+    title: "Apagado Salon"
+
